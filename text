@@ -4,4 +4,8 @@ dekstop text
 from branch task1
 from branch task2
 oshte ot branch task2
+<<<<<<< HEAD
 from main
+=======
+from task3
+>>>>>>> task3
